@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def encodingToGB():
-    targetText = jsonReader.leadingIndex(27)[0]
+    targetText = jsonReader.leadingIndex()[0]
     encoText = targetText.encode("gb18030").hex()
     encoTextLen = int(len(encoText))
     encoTextResult = ""
@@ -17,4 +17,4 @@ def encodingToGB():
     return encoTextResult
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host='0.0.0.0', port=8000)

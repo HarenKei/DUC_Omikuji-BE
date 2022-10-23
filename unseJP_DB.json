@@ -1,481 +1,241 @@
 [{
 	"Index": 1,
 	"GoodOrBad": "大吉",
-	"TotalUnse": "新たなことに挑戦してみましょう。",
-	"MoneyUnse": "信念を持ってお金を使ってみましょう。",
-	"JobUnse": "就職を準備しているなら、いいニュースがあるべき！",
-	"SchoolUnse": "教授と仲良くしてみましょう。",
-	"LoveUnse": "あなたの青春は今から！"
+	"TotalUnse": "新たなことに挑戦してみましょう。"
 }, {
 	"Index": 2,
 	"GoodOrBad": "凶",
-	"TotalUnse": "家の外は危ない！",
-	"MoneyUnse": "",
-	"JobUnse": "상사한테 말대꾸를 하지 마세요.",
-	"SchoolUnse": "대학교 5학년까지 합시다.",
-	"LoveUnse": "걔가 너를 왜 만납니까?"
+	"TotalUnse": "家の外は危ない。"
 }, {
 	"Index": 3,
 	"GoodOrBad": "凶",
-	"TotalUnse": "이게 맞나 싶으면 하지 마세요",
-	"MoneyUnse": "늦어서 택시비를 낼겁니다.",
-	"JobUnse": "오늘은 야근이에요",
-	"SchoolUnse": "오늘은 지각 각",
-	"LoveUnse": "친구가 한 명 늘었다."
+	"TotalUnse": "悩んでいるなら、ダメです。"
 }, {
 	"Index": 4,
 	"GoodOrBad": "小吉",
-	"TotalUnse": "무난하다'는 말의 증명",
-	"MoneyUnse": "쓸 만큼만 쓰면 좋아요",
-	"JobUnse": "할 일만 잘 하면 좋아요",
-	"SchoolUnse": "수업만 잘 들으면 괜찮아요",
-	"LoveUnse": "썸을 타게 될 듯?"
+	"TotalUnse": "平和な一日になるはず。"
 }, {
 	"Index": 5,
 	"GoodOrBad": "吉",
-	"TotalUnse": "항상 겸손하면 안 될 일도 됩니다.",
-	"MoneyUnse": "오늘은 삼성전자 할인하는 날",
-	"JobUnse": "면접관이 우리 아빠?",
-	"SchoolUnse": "오늘 휴강!!!",
-	"LoveUnse": "오늘 고백 한 번 생각해보세요"
+	"TotalUnse": "謙虚が一番大事。"
 }, {
 	"Index": 6,
 	"GoodOrBad": "小吉",
-	"TotalUnse": "현재에 안주하지 마십시오.",
-	"MoneyUnse": "갖고싶었던 물건 무이자 할부 이벤트",
-	"JobUnse": "싫어하는 상사 오늘 아파서 쉰대요",
-	"SchoolUnse": "교수님이 과제 검사를 안한대요",
-	"LoveUnse": "여(남)사친이라도 있어야 고백하지..."
+	"TotalUnse": "現在に満足しないでください。"
 }, {
 	"Index": 7,
 	"GoodOrBad": "吉",
-	"TotalUnse": "나태하지는 않은지 생각해보세요.",
-	"MoneyUnse": "돈은 그냥 들어오는 것이 아닙니다.",
-	"JobUnse": "일 좀 열심히 하세요",
-	"SchoolUnse": "A0는 무난하게 받을 거예요",
-	"LoveUnse": "봄이 그렇게도 좋냐?"
+	"TotalUnse": "今日も頑張りましょう。"
 }, {
 	"Index": 8,
 	"GoodOrBad": "凶",
-	"TotalUnse": "매사에 설치지 말고 신중하는게 좋을 겁니다.",
-	"MoneyUnse": "우리 회사 주가 할인기간",
-	"JobUnse": "오늘 점심은 부장님 마음대로 ",
-	"SchoolUnse": "옆의 친구들과 잘 지내야 해요",
-	"LoveUnse": "너랑 나랑은 지금 안되지...."
+	"TotalUnse": "慎重さが求められます。"
 }, {
 	"Index": 9,
 	"GoodOrBad": "吉",
-	"TotalUnse": "복권 한 장 사보는건 어떨까요?",
-	"MoneyUnse": "5천원이라도 따면 잃지는 않은거잖아요?",
-	"JobUnse": "물 흐르듯 자연스러운 하루가 될 것 같아요",
-	"SchoolUnse": "집에 가고 싶을 거예요",
-	"LoveUnse": "그 사람을 마음 속에만 담아두지 말아보세요."
+	"TotalUnse": "帰る時にLOTTOはどうですか？"
 }, {
 	"Index": 10,
 	"GoodOrBad": "大凶",
-	"TotalUnse": "고통은 성장의 거름이라고 생각하는게 좋습니다.",
-	"MoneyUnse": "돈과는 인연이 아닌가 봅니다.",
-	"JobUnse": "이번 이력서는 잊혀지겠지요.",
-	"SchoolUnse": "공부가 모자랐다고 생각합시다.",
-	"LoveUnse": "너도 차일 거야 겁나 지독하게"
+	"TotalUnse": "辛さは成功の餌だと思ってみよう。"
 }, {
 	"Index": 11,
 	"GoodOrBad": "大吉",
-	"TotalUnse": "너무 잘된다고 자만하지만 않으면 됩니다.",
-	"MoneyUnse": "노력 대비 많은 수익을 기대해봐도 좋아요",
-	"JobUnse": "직장 동기들에게 선망받는 당신은 에이스",
-	"SchoolUnse": "교수님이 하는 얘기가 다 아는 얘기",
-	"LoveUnse": "오늘부터 1일"
+	"TotalUnse": "でも、自慢しないで。"
 }, {
 	"Index": 12,
 	"GoodOrBad": "小吉",
-	"TotalUnse": "은은한 꽃향기처럼 은은한 하루가 되기를!",
-	"MoneyUnse": "한 만큼만 벌기를 바래요",
-	"JobUnse": "어제만큼만 일하면 괜찮아요",
-	"SchoolUnse": "어제처럼만 수업을 들어요",
-	"LoveUnse": "어제와 같은 사이일거예요"
+	"TotalUnse": "ピンク色のような今日になるはず。"
 }, {
 	"Index": 13,
 	"GoodOrBad": "吉",
-	"TotalUnse": "어제보다 나은 오늘을 만들어나가길",
-	"MoneyUnse": "공짜를 바래서는 안되겠지요.",
-	"JobUnse": "동료와 커피라도 한 캔 어떤가요?",
-	"SchoolUnse": "자신의 노력을 믿어야겠지요.",
-	"LoveUnse": "마음을 표현해봐야겠지요."
+	"TotalUnse": "あなたは昨日より今日がもっと素敵です。"
 }, {
 	"Index": 14,
 	"GoodOrBad": "大吉",
-	"TotalUnse": "생각한 대로 이루어지겠지요",
-	"MoneyUnse": "드디어 돈이 당신의 능력을 알아보네요",
-	"JobUnse": "당신의 존재를 소중히 여기게 되겠지요",
-	"SchoolUnse": "조금 전에 본 그 부분이 시험에 나오겠네요",
-	"LoveUnse": "사실 그 사람도 당신을 좋아하는군요"
+	"TotalUnse": "追いつけた夢が叶える。"
 }, {
 	"Index": 15,
 	"GoodOrBad": "小吉",
-	"TotalUnse": "오늘에 감사하는게 좋겠지요",
-	"MoneyUnse": "택시비가 나가지 않겠지요",
-	"JobUnse": "당신의 업무를 무사히 마치겠지요",
-	"SchoolUnse": "수업 듣느라 고생이 많아요",
-	"LoveUnse": "사랑이 꼭 뜨거워야 할 필요는 없겠지요"
+	"TotalUnse": "全てのことに感謝しましょう。"
 }, {
 	"Index": 16,
 	"GoodOrBad": "吉",
-	"TotalUnse": "성장의 기쁨을 누리는 하루가 되기를",
-	"MoneyUnse": "적금을 들어봐도 좋을 것 같아요",
-	"JobUnse": "또 다른 방식으로 업무를 처리해봐요",
-	"SchoolUnse": "또 다른 관점에서 바라보는 것도 좋겠어요",
-	"LoveUnse": "인연과의 애정이 더 두터워질 일이 생기겠네요"
+	"TotalUnse": "成長の喜びを感じてみましょう。"
 }, {
 	"Index": 17,
 	"GoodOrBad": "大吉",
-	"TotalUnse": "당신의 인생에서 평생 기억에 남을 하루일 거예요",
-	"MoneyUnse": "알게 모르게 당신의 노력에 대한 보상이 있을 거예요",
-	"JobUnse": "이달의 우수사원 \"당신\"",
-	"SchoolUnse": "평균 평점 4.5",
-	"LoveUnse": "오늘은 꽃 한송이를 사서 만나볼까요?"
+	"TotalUnse": "煌めきような一日になります。"
 }, {
 	"Index": 18,
 	"GoodOrBad": "吉",
-	"TotalUnse": "세상이 얼마나 아름다운지 알 수 있을 거예요",
-	"MoneyUnse": "이유 없이 나간 돈은 없으니까 괜찮아요.",
-	"JobUnse": "직장이 없다면 생길 거예요",
-	"SchoolUnse": "교수님께 주목받는 하루가 될 거예요",
-	"LoveUnse": "갑자기 사랑한다고 말해보세요"
+	"TotalUnse": "綺麗な世の中に、綺麗なあなたがいる。"
 }, {
 	"Index": 19,
 	"GoodOrBad": "小吉",
-	"TotalUnse": "심플 이즈 베스트",
-	"MoneyUnse": "내가 좋아하는 회사 주식을 사봐요",
-	"JobUnse": "집에 가고 싶어도 조금만 참아봐요",
-	"SchoolUnse": "교수님이 30분 일찍 수업을 끝내줄지도?",
-	"LoveUnse": "서로의 마음을 확인할 수 있기를"
+	"TotalUnse": "シンプル　イズ　ベスト"
 }, {
 	"Index": 20,
 	"GoodOrBad": "大凶",
-	"TotalUnse": "이 운세를 본다면 희망을 버려라!",
-	"MoneyUnse": "위믹스에 전부 넣었다고?",
-	"JobUnse": "징징이, 자네 해고 되고 싶나?",
-	"SchoolUnse": "다섯 문제 전부 4번이였어...",
-	"LoveUnse": "우리.. 그냥 친구로 지내자"
+	"TotalUnse": "希望を捨て。この先は絶望だけだ。"
 }, {
 	"Index": 21,
 	"GoodOrBad": "凶",
-	"TotalUnse": "일어나.. 출근해야지..",
-	"MoneyUnse": "연봉 협상 실패!",
-	"JobUnse": "오늘따라 갈굼이 심한 부장님",
-	"SchoolUnse": "도라에몽 암기빵",
-	"LoveUnse": "당신을 보는 부장님의 눈이 심상치 않습니다"
+	"TotalUnse": "起きて、、出勤しようぜ。"
 }, {
 	"Index": 22,
 	"GoodOrBad": "小吉",
-	"TotalUnse": "작은 것에 집중해보세요",
-	"MoneyUnse": "선배가 한 턱 쏜다!",
-	"JobUnse": "오늘 강의는 여기까지",
-	"SchoolUnse": "시험이 어제였다고??",
-	"LoveUnse": "오늘따라 화장이 잘 먹힙니다"
+	"TotalUnse": "小さな事でも集中！"
 }, {
 	"Index": 23,
 	"GoodOrBad": "凶",
-	"TotalUnse": "답을 찾을 것이다 늘 그랬듯이",
-	"MoneyUnse": "돈이 막 사라질겁니다",
-	"JobUnse": "밥을 화장실에서 먹습니다",
-	"SchoolUnse": "조별과제인데 아는 사람이 없다",
-	"LoveUnse": "오빠(누나)가 리드해주는 운세입니다"
+	"TotalUnse": "いつものように答えが出るはず。"
 }, {
 	"Index": 24,
 	"GoodOrBad": "大吉",
-	"TotalUnse": "돌아온 럭키짱",
-	"MoneyUnse": "너 고생했잖아 더 넣었어",
-	"JobUnse": "작업물이 한번에 컨펌됩니다",
-	"SchoolUnse": "시험 5개를 찍어도 다 정답입니다",
-	"LoveUnse": "길을 가다 번호를 물어보는 이성이 많아집니다"
+	"TotalUnse": "超ラッキー！"
 }, {
 	"Index": 25,
 	"GoodOrBad": "凶",
-	"TotalUnse": "세상을 너무 미워하지마세요",
-	"MoneyUnse": "먹어도 먹어도 배가 고픕니다",
-	"JobUnse": "직장(학교)밥이 군대 밥처럼 변합니다",
-	"SchoolUnse": "강의가 매우 쉬워집니다",
-	"LoveUnse": "우리가 그런 사이였나?"
+	"TotalUnse": "彼も彼なりの理由があると思うんだ。"
 }, {
 	"Index": 26,
 	"GoodOrBad": "吉",
-	"TotalUnse": "일상에 감사해보아요",
-	"MoneyUnse": "식당에서 서비스를 줍니다",
-	"JobUnse": "그 사람 원래 그런 성격입니다",
-	"SchoolUnse": "지금 이대로 정진하세요",
-	"LoveUnse": "사랑은 예상 밖에서 찾아오는 법"
+	"TotalUnse": "親に「愛してる」って言ってみよう。"
 }, {
 	"Index": 27,
 	"GoodOrBad": "小吉",
-	"TotalUnse": "이건 [ 평 범 ]  이다",
-	"MoneyUnse": "잔액이 부족합니다!",
-	"JobUnse": "밥을 혼자먹게 됩니다",
-	"SchoolUnse": "취약했던 부분에서 성장합니다",
-	"LoveUnse": "연인의 이성친구가 패딩을 벗어줍니다"
+	"TotalUnse": "平凡な一日。"
 }, {
 	"Index": 28,
 	"GoodOrBad": "凶",
-	"TotalUnse": "설마 더 떨어질 곳이 있을까요?",
-	"MoneyUnse": "마트에 들어가자 세일을 시작합니다",
-	"JobUnse": "타인에게 부담을 주게 됩니다",
-	"SchoolUnse": "이대로면 졸업을 할 수 없게 됩니다",
-	"LoveUnse": "짝사랑을 포기하게됩니다"
+	"TotalUnse": "最低、最低、最低。"
 }, {
 	"Index": 29,
 	"GoodOrBad": "吉",
-	"TotalUnse": "그래.. 이거면 된거야",
-	"MoneyUnse": "로또 한번 사보세요",
-	"JobUnse": "그.. 머냐.. 야근 각이네!",
-	"SchoolUnse": "밑줄이 한번에 그어집니다",
-	"LoveUnse": "연인의 동성친구가 새우를 까줍니다"
+	"TotalUnse": "これでいいじゃん。"
 }, {
 	"Index": 30,
 	"GoodOrBad": "凶",
-	"TotalUnse": "신은 없다.",
-	"MoneyUnse": "복권을 사도 좋을 겁니다",
-	"JobUnse": "퇴사를 할 수 없습니다",
-	"SchoolUnse": "샤프심을 뽑을 때마다 부러집니다",
-	"LoveUnse": "다른 이에게 배신당합니다"
+	"TotalUnse": "神はいない。"
 }, {
 	"Index": 31,
 	"GoodOrBad": "小吉",
-	"TotalUnse": "김건모-잘못된 만남",
-	"MoneyUnse": "소비를 신중히 해야할 것 같아요",
-	"JobUnse": "주위에 적극적으로 도움을 요청해보세요",
-	"SchoolUnse": "공부에 대한 의욕이 넘칩니다",
-	"LoveUnse": "친구의 애인이 깻잎을 떼어줍니다"
+	"TotalUnse": "希望を持ってやってみよう。"
 }, {
 	"Index": 32,
 	"GoodOrBad": "凶",
-	"TotalUnse": "커플은 용서할 수 없습니다",
-	"MoneyUnse": "이번 달 보너스가 보입니다",
-	"JobUnse": "내일 지각할 수도 있습니다",
-	"SchoolUnse": "필기구 중 일부가 사라집니다",
-	"LoveUnse": "애인이 있다면 관계가 위험합니다"
+	"TotalUnse": "カップルは許せない。"
 }, {
 	"Index": 33,
 	"GoodOrBad": "大吉",
-	"TotalUnse": "월요일이 좋아집니다",
-	"MoneyUnse": "도박성이 강한 일도 이익이 따릅니다.",
-	"JobUnse": "직장 내 인간관계가 원만해집니다",
-	"SchoolUnse": "몸과 정신이 모두 상쾌해집니다",
-	"LoveUnse": "버스비를 대신 내주는 뒷사람"
+	"TotalUnse": "最高、最高、最高。"
 }, {
 	"Index": 34,
 	"GoodOrBad": "大凶",
-	"TotalUnse": "심연을 너무 깊게 들여다보지 마세요",
-	"MoneyUnse": "잔고가 위험 수준입니다",
-	"JobUnse": "사장님이 최저시급을 지키지 않습니다",
-	"SchoolUnse": "면허시험을 스펀지밥처럼 보게 됩니다",
-	"LoveUnse": "소중한 친구를 잃습니다"
+	"TotalUnse": "最悪。"
 }, {
 	"Index": 35,
 	"GoodOrBad": "小吉",
-	"TotalUnse": "마음을 비우면 행복해져요",
-	"MoneyUnse": "학식 가격이 더 오릅니다!",
-	"JobUnse": "교수님과의 사이가 틀어집니다",
-	"SchoolUnse": "대림대학교가 최고의 전문대학이 됩니다!",
-	"LoveUnse": "뜻 밖의 인연이 생길 수도?"
+	"TotalUnse": "負けないで！"
 }, {
 	"Index": 36,
 	"GoodOrBad": "吉",
-	"TotalUnse": "행복과 돈은 별개입니다.",
-	"MoneyUnse": "옷을 여러벌 샀지만 모두 별로인 것 같습니다",
-	"JobUnse": "부장님의 개그가 재밌어집니다",
-	"SchoolUnse": "이 과목이 A+라고?",
-	"LoveUnse": "이성과의 노래방에서 분위기가 좋아집니다"
+	"TotalUnse": "幸せとお金は関係ないです。"
 }, {
 	"Index": 37,
 	"GoodOrBad": "大吉",
-	"TotalUnse": "이 기분은 아주 나이스",
-	"MoneyUnse": "새로 산 옷이 다른 옷과 잘 어울립니다",
-	"JobUnse": "새로 온 부사수가 에이스입니다",
-	"SchoolUnse": "다음 학기는 성적장학금 받을 수도?",
-	"LoveUnse": "친구들이 보증을 서줍니다!"
+	"TotalUnse": "あーなんて素敵な日だ。"
 }, {
 	"Index": 38,
 	"GoodOrBad": "小吉",
-	"TotalUnse": "돈으로는 행복을 살 수 없습니다",
-	"MoneyUnse": "침대 아래에 떨어뜨린 만원이 있습니다",
-	"JobUnse": "다음 주 월요일은 회식입니다",
-	"SchoolUnse": "교수님과의 사이가 나빠집니다",
-	"LoveUnse": "친한 친구가 돈을 빌려줍니다!"
+	"TotalUnse": "最後まで走り抜けて！"
 }, {
 	"Index": 39,
 	"GoodOrBad": "吉",
-	"TotalUnse": "돈으로는 매우 큰 행복을 살 수 있습니다",
-	"MoneyUnse": "포인트가 어느새 가득 차 있습니다",
-	"JobUnse": "이야~ 야근이다~",
-	"SchoolUnse": "교수님이 대학원을 권유합니다",
-	"LoveUnse": "잘 알지 못하던 이성 후배가 밥을 사달라고 합니다"
+	"TotalUnse": "君の涙の対価だと思ってみよう。"
 }, {
 	"Index": 40,
 	"GoodOrBad": "大吉",
-	"TotalUnse": "돈은 항상 옳다",
-	"MoneyUnse": "적금 이율이 20%가 됩니다",
-	"JobUnse": "남은 일을 부사수에게 맡깁니다",
-	"SchoolUnse": "교수님이 부모님의 지인입니다!",
-	"LoveUnse": "눈을 마주친 이성과 사랑에 빠집니다"
+	"TotalUnse": "冷え冷えのビールで乾杯！"
 }, {
 	"Index": 41,
 	"GoodOrBad": "小吉",
-	"TotalUnse": "길가다가도 자세히 보면 네잎클로버",
-	"MoneyUnse": "잊고 있었던 금전을 얻을 수도 있습니다.",
-	"JobUnse": "불같았던 상사도 의외의 부드러운 모습이 보여집니다.",
-	"SchoolUnse": "돌길도 두드려서 건너듯 함정문제도 파악되기 쉽겠습니다.",
-	"LoveUnse": "의외의 인연이 이루어집니다."
+	"TotalUnse": "君は世の中の四つ葉のクローバー"
 }, {
 	"Index": 42,
 	"GoodOrBad": "凶",
-	"TotalUnse": "같은 꿀이라도 상한 꿀은 존재한다.",
-	"MoneyUnse": "정말 급한 문제인지 생각하세요.",
-	"JobUnse": "익숙한 업무도 한 번 되돌아봅시다.",
-	"SchoolUnse": "좋은 기회더라도 고민은 필요합니다.",
-	"LoveUnse": "자신만 운명이라 믿을수도 있습니다."
+	"TotalUnse": "我慢、我慢、我慢。"
 }, {
 	"Index": 43,
 	"GoodOrBad": "凶",
-	"TotalUnse": "믿었던 것도 다시 한 번 돌아봐야 합니다.",
-	"MoneyUnse": "잊었던 정기 구독 요금을 확인해보세요.",
-	"JobUnse": "퇴근 전 중요한 업무가 있었는지 상상하십시오",
-	"SchoolUnse": "들었던 필기본을 다시 한 번 확인하는 시간을 가져보세요",
-	"LoveUnse": "가깝더라도 모든 것을 내놓을 필요는 없습니다."
+	"TotalUnse": "頑張れたらそうしたいよ。"
 }, {
 	"Index": 44,
 	"GoodOrBad": "大吉",
-	"TotalUnse": "만사형통",
-	"MoneyUnse": "불필요한 금전 지출이 최소화 될 것입니다.",
-	"JobUnse": "거대한 프로젝트도 바닥이 보입니다.",
-	"SchoolUnse": "언젠가 적었던 필기도 도움될 수도 있습니다.",
-	"LoveUnse": "마음을 주고 싶은 상대한테 관심을 받을 수 있습니다."
+	"TotalUnse": "今日はこんなに眩しいんだ"
 }, {
 	"Index": 45,
 	"GoodOrBad": "小吉",
-	"TotalUnse": "고진감래",
-	"MoneyUnse": "빠듯한 자산도 여유로울 때가 있습니다.",
-	"JobUnse": "깊은 우물에도 바닥이 보입니다.",
-	"SchoolUnse": "힘든만큼 좋은 결과를 얻습니다.",
-	"LoveUnse": "외로웠던만큼 애정도 받을 확률이 높습니다."
+	"TotalUnse": "寂しさが邪魔をする。"
 }, {
 	"Index": 46,
 	"GoodOrBad": "大吉",
-	"TotalUnse": "꽃길 한가운데",
-	"MoneyUnse": "작은 씨앗들이 풍년을 가져다줍니다.",
-	"JobUnse": "좋은 이직 제의가 있을 수도 있습니다.",
-	"SchoolUnse": "뒤따라오는지 보면 허허벌판",
-	"LoveUnse": "진실된 마음을 주면 좋은 결과를 보여줍니다."
+	"TotalUnse": "花道を歩く気分。"
 }, {
 	"Index": 47,
 	"GoodOrBad": "凶",
-	"TotalUnse": "용두사미",
-	"MoneyUnse": "거창한 자산 관리 계획도 실패가 있을 수 있습니다.",
-	"JobUnse": "야심차게 준비한 것도 처음부터 돌아보세요.",
-	"SchoolUnse": "이해했다고 생각한 것도 뿌리부터 틀릴수도 있습니다.",
-	"LoveUnse": "혼자 북치고 장구쳐도 청중이 없습니다."
+	"TotalUnse": "こんなところで泣くな！"
 }, {
 	"Index": 48,
 	"GoodOrBad": "小吉",
-	"TotalUnse": "격세지감",
-	"MoneyUnse": "좋다고 생각하고 받고 있는 혜택도 항상 비교해야합니다.",
-	"JobUnse": "다른 시각으로 처리하면 수월해질 수 있습니다.",
-	"SchoolUnse": "혼자보다는 여러명의 생각을 들어봐야 좋은 결과가 얻어집니다.",
-	"LoveUnse": "접근 방법도 올바른 접근 방법이 있기 마련입니다."
+	"TotalUnse": "笑える朝でいたい。"
 }, {
 	"Index": 49,
 	"GoodOrBad": "小吉",
-	"TotalUnse": "소소한 행복",
-	"MoneyUnse": "가지고 있던 투자상품이 상승할 느낌이 듭니다.",
-	"JobUnse": "힘들고 지친 일에도 결과는 좋을 수밖에 없습니다.",
-	"SchoolUnse": "낮은 기대와 달리 뜻밖의 결과가 기다릴 수 있습니다.",
-	"LoveUnse": "누구든지 항상 혼자는 아닙니다."
+	"TotalUnse": "ありのままでいい。"
 }, {
 	"Index": 50,
 	"GoodOrBad": "大凶",
-	"TotalUnse": "진퇴양난",
-	"MoneyUnse": "믿었던 죽마고우도 배신하는 것은 한 순간입니다. 사기를 조심하세요.",
-	"JobUnse": "울창한 숲에 거대한 태풍이 불어닥칩니다.",
-	"SchoolUnse": "거대한 도서관이라도 관리하지 않으면 폐지처리장일 뿐입니다.",
-	"LoveUnse": "광활한 마음에도 균열이 생길 수 있습니다."
+	"TotalUnse": "楽しいことが少ないから辛いよね。"
 }, {
 	"Index": 51,
 	"GoodOrBad": "大吉",
-	"TotalUnse": "조상님께 감사인사",
-	"MoneyUnse": "넣었던 종목이 대세주가 되어 상승할 것 같은 느낌이 듭니다.",
-	"JobUnse": "평범한 볼품없는 나무라도 뿌리는 내리고 있어 누구보다 굳건하게 있습니다.",
-	"SchoolUnse": "지식의 도서관에 한 권의 책이 또 쓰여집니다.",
-	"LoveUnse": "뜻밖의 두가지 얼굴을 빨리 알아채어 불행을 막을 수 있습니다."
+	"TotalUnse": "月が綺麗だね。"
 }, {
 	"Index": 52,
 	"GoodOrBad": "小吉",
-	"TotalUnse": "우연히 맞은 꽃잎",
-	"MoneyUnse": "굴러온 돌인줄 알았던 것이 호박",
-	"JobUnse": "메마른 흙에도 자라나는 꽃은 피어오릅니다.",
-	"SchoolUnse": "나뭇가지에 잎이 자라기 시작합니다.",
-	"LoveUnse": "날아가는 민들레 꽃씨처럼 운명은 존재합니다."
+	"TotalUnse": "どこかで日は登る。"
 }, {
 	"Index": 53,
 	"GoodOrBad": "大吉",
-	"TotalUnse": "별 볼일 없는 땅에 온천",
-	"MoneyUnse": "광활한 사막에 혼자 거대한 호수를 발견합니다.",
-	"JobUnse": "큰 상처 없이 열매가 맺게 됩니다.",
-	"SchoolUnse": "큰 깨달음을 얻을 기회가 찾아옵니다.",
-	"LoveUnse": "꽃과 벌처럼 좋은 만남이 찾아옵니다."
+	"TotalUnse": "笑える朝を迎えに行こう。"
 }, {
 	"Index": 54,
 	"GoodOrBad": "大吉",
-	"TotalUnse": "우연히 발견한 광활한 소금 동굴",
-	"MoneyUnse": "작은 콩인줄 알았던 것이 옥구슬",
-	"JobUnse": "자신의 능력이 인정받기 시작합니다.",
-	"SchoolUnse": "배웠던 지식이 큰 도움이 됩니다.",
-	"LoveUnse": "구애가 이루어지는 타이밍입니다."
+	"TotalUnse": "今こそ君の青春時代！"
 }, {
 	"Index": 55,
 	"GoodOrBad": "吉",
-	"TotalUnse": "무탈한 하루",
-	"MoneyUnse": "큰 흉년은 지나갈 것 같습니다.",
-	"JobUnse": "작은 못이지만 큰 힘을 견뎌냅니다.",
-	"SchoolUnse": "앞만 보고 달리면 큰 실패를 피할 수 있습니다.",
-	"LoveUnse": "미미하지만 기회가 보이기 시작합니다."
+	"TotalUnse": "悩みを打ち明けて信頼。"
 }, {
 	"Index": 56,
 	"GoodOrBad": "吉",
-	"TotalUnse": "단단한 돌",
-	"MoneyUnse": "작은 농사라도 벌레만 조심하면 큰 문제는 없습니다.",
-	"JobUnse": "흐르는 강물과 돌",
-	"SchoolUnse": "나무 타는 원숭이도 매일 연습합니다.",
-	"LoveUnse": "무엇을 하던 인연은 존재합니다."
+	"TotalUnse": "君は固い岩。"
 }, {
 	"Index": 57,
 	"GoodOrBad": "大吉",
-	"TotalUnse": "나비도 용오름을 만든다.",
-	"MoneyUnse": "꾸준히 저축을 하여 큰 결실을 맺습니다.",
-	"JobUnse": "다사다난했던 프로젝트가 큰 성공을 맞이합니다.",
-	"SchoolUnse": "맞춤형 문제처럼 잘 풀립니다.",
-	"LoveUnse": "새로운 만남이 이루어져 끈끈한 관계가 됩니다."
+	"TotalUnse": "君の努力に花束を"
 }, {
 	"Index": 58,
 	"GoodOrBad": "吉",
-	"TotalUnse": "독한 역병 속에 굳건함",
-	"MoneyUnse": "손해를 입더라도 다행히 큰 손해는 입지 않습니다.",
-	"JobUnse": "아슬아슬하게 화를 빗겨 나갑니다.",
-	"SchoolUnse": "노력했던 만큼 영향이 미치게 됩니다.",
-	"LoveUnse": "가꾸면 가꿀수록 좋은 결과가 반겨줍니다."
+	"TotalUnse": "くだらない話に万歳。"
 }, {
 	"Index": 59,
 	"GoodOrBad": "小吉",
-	"TotalUnse": "偶然の幸せ",
-	"MoneyUnse": "의외의 수입이 있을 수 있습니다.",
-	"JobUnse": "작은 처리가 뜻밖의 인정을 받게 됩니다.",
-	"SchoolUnse": "공부했던 부분이 시험에 큰 영향을 미칩니다.",
-	"LoveUnse": "우연치 않게 보고싶은 사람과 만남이 이루어집니다."
+	"TotalUnse": "偶然の幸せ、ドキドキしてみよう。"
 }, {
 	"Index": 60,
 	"GoodOrBad": "吉",
-	"TotalUnse": "スイーツ　マイ　ホーム",
-	"MoneyUnse": "큰 낭비는 오지 않을 것입니다.",
-	"JobUnse": "감정 소모가 없는 날이 됩니다.",
-	"SchoolUnse": "학습하는 것에 무리가 없을 것입니다.",
-	"LoveUnse": "성급한 만남은 화를 불러옵니다."
+	"TotalUnse": "スイーツ　マイ　ホーム"
 }]

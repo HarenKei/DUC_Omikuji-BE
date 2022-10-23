@@ -1,14 +1,19 @@
 import json
+import random
 
 with open('unseJP_DB.json', 'r', encoding='utf-8') as unseDB:
     unseData = json.load(unseDB)
 
 
-def leadingIndex(usrInput):
+def leadingIndex():
     returnUnse = list()
-    returnUnse.append(unseData[usrInput - 1]['GoodOrBad'])
-    returnUnse.append(unseData[usrInput - 1]['TotalUnse'])
+    randNum = random.randrange(1, 61)
+    returnUnse.append(unseData[randNum - 1]['GoodOrBad'])
+    returnUnse.append(unseData[randNum - 1]['TotalUnse'])
     return returnUnse
+
+
+
 
 
 
